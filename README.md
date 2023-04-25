@@ -1,3 +1,7 @@
+# ⛔️ DEPRECATED
+
+This repository is now deprecated. We moved to a new mono repository architecture containing all sdk-related adapter that you can find [here](https://github.com/portto/blocto-sdk/). 
+
 # Blocto Plugin for Aptos Wallet Adapter
 
 A Blocto wallet plugin to be used with [Aptos Wallet Adapter](https://github.com/aptos-labs/aptos-wallet-adapter).
